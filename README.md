@@ -195,9 +195,9 @@ I'm always open to:
 
 Feel free to connect with me through the links below.
 
-** LinkedIn** - www.linkedin.com/in/muthomi-kaburu-5852b9372
+LinkedIn- www.linkedin.com/in/muthomi-kaburu-5852b9372
 
- ** Gmail ** - kabmuthomi01@gmail.com
+ Gmail  - kabmuthomi01@gmail.com
 
 
 ---
