@@ -23,7 +23,7 @@ I believe software development is about continuous learning, solving meaningful 
 * JavaScript
 * PHP
 * SQL
-* C#
+* C++
 
 ### Backend Development
 
@@ -37,11 +37,8 @@ I believe software development is about continuous learning, solving meaningful 
 ### Frontend Development
 
 * React
-* Axios
-* HTML5
 * CSS3
 * Tailwind CSS
-* Responsive UI Development
 
 ### Databases
 
@@ -51,12 +48,10 @@ I believe software development is about continuous learning, solving meaningful 
 
 ### Development Tools
 
-* Git
 * GitHub
-* Postman
 * Visual Studio Code
 * Figma
-* XAMPP
+
 
 ## 🚀 Featured Projects
 
@@ -195,7 +190,7 @@ I'm always open to:
 
 Feel free to connect with me through the links below.
 
-LinkedIn- www.linkedin.com/in/muthomi-kaburu-5852b9372
+LinkedIn- www.linkedin.com/in/MuthomiKaburu
 
  Gmail  - kabmuthomi01@gmail.com
 
